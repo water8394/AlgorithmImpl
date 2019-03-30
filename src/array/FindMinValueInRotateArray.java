@@ -1,13 +1,11 @@
-package Array;
-
-import java.util.ArrayList;
+package array;
 
 public class FindMinValueInRotateArray {
 
-    public int minNumberInRotateArray(int [] array) {
+    private int minNumberInRotateArray(int [] array) {
         if (array != null && array.length != 0){
             int left = 0, right = array.length-1;
-            int mid = 0;
+            int mid;
             while (left < right){
                 mid = left + (right-left)/2;
                 System.out.println("===========");
