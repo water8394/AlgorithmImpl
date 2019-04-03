@@ -1,12 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e497026-e08f-4043-981c-dd49804c600b" name="Default Changelist" comment="2019-3-30 剑指Offer">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/AlgorithmImpl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listNode/Reverse.java" afterDir="false" />
+    <list default="true" id="9e497026-e08f-4043-981c-dd49804c600b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/AlgorithmImpl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/src.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AlgorithmImpl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmImpl.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/listNode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listNode/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/Array/CombinePhoneNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/Array/FindMinValueInRotateArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/Array/findValueInMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/design/RandomizedSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/dp/CoinsNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/dp/Fibo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/dp/JumpGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/listNode/FromTailToFirstPrintList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/listNode/FromTailToHead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/listNode/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/queueAndStack/ImplQueuebyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/queueAndStack/ImplementQueueUseStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/queueAndStack/TopKElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/Bubble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/Insertion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/Selection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/Shell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/testSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/stringAndChar/ReplaceSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/tree/RebuildByInOrderAndPostOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/tree/RebuildTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/tree/TreeNode.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,25 +46,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/listNode/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state relative-caret-position="105">
+              <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="22" />
               <folding>
                 <element signature="e#104#105#0" expanded="true" />
                 <element signature="e#134#135#0" expanded="true" />
                 <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/listNode/Reverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="366">
+              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -54,6 +87,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="XInZE &lt;31614216+checkche0803@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -99,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/find/RotateArrayByMinNumber.java" />
         <option value="$PROJECT_DIR$/src/listNode/Reverse.java" />
         <option value="$PROJECT_DIR$/src/listNode/ListNode.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -109,8 +148,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="181" />
-    <option name="y" value="85" />
+    <option name="x" value="264" />
+    <option name="y" value="40" />
     <option name="width" value="1613" />
     <option name="height" value="907" />
   </component>
@@ -118,40 +157,34 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="AlgorithmImpl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmImpl" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmImpl" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="AlgorithmImpl" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
-              <item name="AlgorithmImpl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmImpl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmImpl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmImpl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="listNode" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmImpl" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="AlgorithmImpl" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554308221228" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554309213212" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -160,7 +193,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -284,15 +317,23 @@
       <workItem from="1553614094795" duration="13000" />
       <workItem from="1553946810426" duration="6136000" />
     </task>
+    <task id="LOCAL-00001" summary="2019-4-4 ReverseLinkedList">
+      <created>1554308316654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554308316654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="75551000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="181" y="85" width="1613" height="907" extended-state="0" />
+    <frame x="264" y="40" width="1613" height="907" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4857881" visible="true" weight="0.2698004" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4857881" visible="true" weight="0.1712814" />
       <window_info id="Structure" order="1" sideWeight="0.5142119" side_tool="true" weight="0.25370252" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -301,8 +342,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2522639" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3984476" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2522639" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3984476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -329,29 +370,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2019-3-30 剑指Offer" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-3-30 剑指Offer" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/listNode/Reverse.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/listNode/Reverse.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="2019-4-4 ReverseLinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-4-4 ReverseLinkedList" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/lang/String.java" />
-    <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/lang/AbstractStringBuilder.java" />
     <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/lang/StringBuffer.java" />
     <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java" />
     <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/util/List.java" />
@@ -575,32 +597,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/listNode/Reverse.kt">
+    <entry file="file://$PROJECT_DIR$/src/listNode/Reverse.kt" />
+    <entry file="file://$PROJECT_DIR$/AlgorithmImpl.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="105">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/listNode/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="22" />
           <folding>
             <element signature="e#104#105#0" expanded="true" />
             <element signature="e#134#135#0" expanded="true" />
             <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/listNode/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="366">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -669,7 +697,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>AlgorithmImpl</last-edited>
+          <last-edited>src</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
