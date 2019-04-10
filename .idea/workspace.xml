@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e497026-e08f-4043-981c-dd49804c600b" name="Default Changelist" comment="2019-3-30 剑指Offer">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/JumpFloorBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/JumpFloors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/NumberOf1InBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/RectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/find/RotateArrayByMinNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="9e497026-e08f-4043-981c-dd49804c600b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/array/ContinueMaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/FindAllPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmImpl.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/CombinePhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/CombinePhoneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/FindMinValueInRotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/FindMinValueInRotateArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/findValueInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/findValueInMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/TreeNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,88 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/find/RotateArrayByMinNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/array/ContinueMaxValue.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/Fibo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/JumpGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-95">
-              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/NumberOf1InBinary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="35" />
-              <folding>
-                <element signature="e#78#79#0" expanded="true" />
-                <element signature="e#120#121#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/RectNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk/src.zip!/java/lang/Integer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="1443" column="22" selection-start-line="1443" selection-start-column="22" selection-end-line="1443" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/JumpFloors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/FindMinValueInRotateArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/JumpFloorBT.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -132,7 +47,6 @@
         <option value="$PROJECT_DIR$/src/IntersectionOfTwoLinkedLists.java" />
         <option value="$PROJECT_DIR$/src/listNode/ListNode.java" />
         <option value="$PROJECT_DIR$/src/listNode/FromTailToFirstPrintList.java" />
-        <option value="$PROJECT_DIR$/src/tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/queueAndStack/ImplementQueueUseStack.java" />
         <option value="$PROJECT_DIR$/src/Array/FindMinValueInRotateArray.java" />
         <option value="$PROJECT_DIR$/src/Array/CombinePhoneNumber.java" />
@@ -164,6 +78,9 @@
         <option value="$PROJECT_DIR$/src/dp/JumpFloors.java" />
         <option value="$PROJECT_DIR$/src/array/FindMinValueInRotateArray.java" />
         <option value="$PROJECT_DIR$/src/find/RotateArrayByMinNumber.java" />
+        <option value="$PROJECT_DIR$/src/tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/tree/FindAllPath.java" />
+        <option value="$PROJECT_DIR$/src/array/ContinueMaxValue.java" />
       </list>
     </option>
   </component>
@@ -203,20 +120,20 @@
               <item name="AlgorithmImpl" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmImpl" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553954332640" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554882750767" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -225,7 +142,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -305,53 +222,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="AlgorithmImpl" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="AlgorithmImpl" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.JumpFloorBT" />
@@ -394,18 +264,27 @@
       <workItem from="1553527005981" duration="8000" />
       <workItem from="1553527051078" duration="3924000" />
       <workItem from="1553614094795" duration="13000" />
-      <workItem from="1553946810426" duration="6136000" />
+      <workItem from="1553946810426" duration="6353000" />
+      <workItem from="1554880429736" duration="2164000" />
     </task>
+    <task id="LOCAL-00001" summary="2019-3-30 剑指Offer">
+      <created>1553954612480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553954612480</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75551000" />
+    <option name="totallyTimeSpent" value="77932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="181" y="85" width="1613" height="907" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4857881" visible="true" weight="0.26658082" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4857881" visible="true" weight="0.2698004" />
       <window_info id="Structure" order="1" sideWeight="0.5142119" side_tool="true" weight="0.25370252" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -429,7 +308,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.3296845" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3296845" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -445,20 +324,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="2019-3-30 剑指Offer" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/util/HashMap.java" />
-    <entry file="file://$PROJECT_DIR$/src/array/CombinePhoneNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/lang/String.java" />
     <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/lang/AbstractStringBuilder.java" />
     <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/lang/StringBuffer.java" />
     <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java" />
@@ -557,13 +422,7 @@
     </entry>
     <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/lang/Object.java" />
     <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/util/concurrent/Executor.java" />
-    <entry file="file://$PROJECT_DIR$/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/queueAndStack/ImplQueuebyStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
@@ -667,31 +526,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/find/RotateArrayByMinNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/dp/Fibo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dp/JumpGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="1443" column="22" selection-start-line="1443" selection-start-column="22" selection-end-line="1443" selection-end-column="22" />
+        <state relative-caret-position="76">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dp/NumberOf1InBinary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="35" />
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="35" />
           <folding>
             <element signature="e#78#79#0" expanded="true" />
             <element signature="e#120#121#0" expanded="true" />
@@ -706,10 +565,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/JumpFloorBT.java">
+    <entry file="jar://D:/Program Files/Java/jdk/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="26220">
+          <caret line="1443" column="22" selection-start-line="1443" selection-start-column="22" selection-end-line="1443" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -723,14 +582,35 @@
     <entry file="file://$PROJECT_DIR$/src/array/FindMinValueInRotateArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/find/RotateArrayByMinNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/dp/JumpFloorBT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/FindAllPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/ContinueMaxValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
