@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e497026-e08f-4043-981c-dd49804c600b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/ContinueMaxValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/FindAllPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/TreeNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,17 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/array/ContinueMaxValue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,6 +23,22 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="CheckChe0803" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="AlgorithmImpl" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -70,8 +73,6 @@
         <option value="$PROJECT_DIR$/src/Array/findValueInMatrix.java" />
         <option value="$PROJECT_DIR$/src/stringAndChar/ReplaceSpace.java" />
         <option value="$PROJECT_DIR$/src/listNode/FromTailToHead.java" />
-        <option value="$PROJECT_DIR$/src/tree/RebuildTree.java" />
-        <option value="$PROJECT_DIR$/src/tree/RebuildByInOrderAndPostOrder.java" />
         <option value="$PROJECT_DIR$/src/dp/NumberOf1InBinary.java" />
         <option value="$PROJECT_DIR$/src/dp/RectNumber.java" />
         <option value="$PROJECT_DIR$/src/dp/JumpFloorBT.java" />
@@ -81,6 +82,14 @@
         <option value="$PROJECT_DIR$/src/tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/tree/FindAllPath.java" />
         <option value="$PROJECT_DIR$/src/array/ContinueMaxValue.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/tree/RebuildTree.java" />
+        <option value="$PROJECT_DIR$/src/tree/RebuildByInOrderAndPostOrder.java" />
+        <option value="$PROJECT_DIR$/src/stringAndChar/AddZeros.java" />
+        <option value="$PROJECT_DIR$/src/stringAndChar/StringConcat.java" />
+        <option value="$PROJECT_DIR$/src/stringAndChar/MutationString.java" />
+        <option value="$PROJECT_DIR$/src/array/SumOfS.java" />
+        <option value="$PROJECT_DIR$/src/array/SumContinueListOfS.java" />
       </list>
     </option>
   </component>
@@ -91,8 +100,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="181" />
-    <option name="y" value="85" />
+    <option name="x" value="229" />
+    <option name="y" value="60" />
     <option name="width" value="1613" />
     <option name="height" value="907" />
   </component>
@@ -104,36 +113,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AlgorithmImpl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmImpl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmImpl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmImpl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmImpl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmImpl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554882750767" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555124602607" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -156,13 +144,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JumpFloorBT">
-    <configuration name="Fibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.Fibo" />
+  <component name="RunManager" selected="Application.SumOfS">
+    <configuration name="AddZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringAndChar.AddZeros" />
       <module name="AlgorithmImpl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="stringAndChar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JumpFloors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.JumpFloors" />
+    <configuration name="MutationString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringAndChar.MutationString" />
       <module name="AlgorithmImpl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="stringAndChar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RebuildByInOrderAndPostOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.RebuildByInOrderAndPostOrder" />
+    <configuration name="StringConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringAndChar.StringConcat" />
       <module name="AlgorithmImpl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tree.*" />
+          <option name="PATTERN" value="stringAndChar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArrayByMinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="find.RotateArrayByMinNumber" />
+    <configuration name="SumOfS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.SumOfS" />
       <module name="AlgorithmImpl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="find.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfS" />
+        <item itemvalue="Application.MutationString" />
+        <item itemvalue="Application.StringConcat" />
+        <item itemvalue="Application.AddZeros" />
         <item itemvalue="Application.JumpFloorBT" />
-        <item itemvalue="Application.JumpFloors" />
-        <item itemvalue="Application.Fibo" />
-        <item itemvalue="Application.RotateArrayByMinNumber" />
-        <item itemvalue="Application.RebuildByInOrderAndPostOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +253,9 @@
       <workItem from="1553527051078" duration="3924000" />
       <workItem from="1553614094795" duration="13000" />
       <workItem from="1553946810426" duration="6353000" />
-      <workItem from="1554880429736" duration="2164000" />
+      <workItem from="1554880429736" duration="4113000" />
+      <workItem from="1554896233993" duration="9629000" />
+      <workItem from="1555121016721" duration="3312000" />
     </task>
     <task id="LOCAL-00001" summary="2019-3-30 剑指Offer">
       <created>1553954612480</created>
@@ -274,17 +264,51 @@
       <option name="project" value="LOCAL" />
       <updated>1553954612480</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2019-4-10 剑指Offer">
+      <created>1554882804728</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554882804728</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2019-4-10 剑指Offer">
+      <created>1554883070662</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554883070662</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2019-4-10 剑指Offer">
+      <created>1554883327239</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554883327239</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2019-4-10 剑指Offer">
+      <created>1554883334194</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554883334194</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2019-4-13 剑指Offer">
+      <created>1555124584240</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555124584240</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77932000" />
+    <option name="totallyTimeSpent" value="92822000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="181" y="85" width="1613" height="907" extended-state="0" />
-    <editor active="true" />
+    <frame x="229" y="60" width="1613" height="907" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4857881" visible="true" weight="0.2698004" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4857881" visible="true" weight="0.27688345" />
       <window_info id="Structure" order="1" sideWeight="0.5142119" side_tool="true" weight="0.25370252" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -294,14 +318,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2522639" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3984476" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36739975" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32858992" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32988358" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32858992" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32988358" />
       <window_info anchor="bottom" id="Tail" order="13" />
@@ -321,31 +345,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2019-3-30 剑指Offer" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-3-30 剑指Offer" />
+    <MESSAGE value="2019-4-10 剑指Offer" />
+    <MESSAGE value="2019-4-13 剑指Offer" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-4-13 剑指Offer" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stringAndChar/StringConcat.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/lang/AbstractStringBuilder.java" />
-    <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/lang/StringBuffer.java" />
-    <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java" />
-    <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/util/List.java" />
-    <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/util/AbstractCollection.java" />
-    <entry file="file://$PROJECT_DIR$/src/sortAndSearch/Selection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortAndSearch/Bubble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sortAndSearch/Insertion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -491,23 +507,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/RebuildByInOrderAndPostOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/RebuildTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="31" selection-start-line="31" selection-end-line="46" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Program Files/Java/jdk/src.zip!/java/lang/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -609,8 +608,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/ContinueMaxValue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="285">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/RebuildByInOrderAndPostOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/RebuildTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stringAndChar/AddZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197">
+          <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+          <folding>
+            <element signature="e#2838#2839#0" expanded="true" />
+            <element signature="e#2872#2873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stringAndChar/StringConcat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stringAndChar/MutationString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/SumOfS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/SumContinueListOfS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="e#220#240#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -27,7 +27,7 @@ public class RebuildByInOrderAndPostOrder {
 
     private void printNode(TreeNode root){
         if (root != null){
-            System.out.println(root.value);
+            System.out.println(root.val);
             printNode(root.left);
             printNode(root.right);
         }
