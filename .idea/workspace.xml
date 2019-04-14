@@ -2,7 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e497026-e08f-4043-981c-dd49804c600b" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/AlgorithmImpl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/src.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmImpl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmImpl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/Array/CombinePhoneNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/Array/FindMinValueInRotateArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/Array/findValueInMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/design/RandomizedSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/dp/CoinsNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/dp/Fibo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/dp/JumpGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/listNode/FromTailToFirstPrintList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/listNode/FromTailToHead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/listNode/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/queueAndStack/ImplQueuebyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/queueAndStack/ImplementQueueUseStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/queueAndStack/TopKElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/Bubble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/Insertion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/Selection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/Shell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/testSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/stringAndChar/ReplaceSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/tree/RebuildByInOrderAndPostOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/tree/RebuildTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/tree/TreeNode.class" beforeDir="false" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,16 +46,60 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/listNode/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="22" />
+              <folding>
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/listNode/Reverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="XInZE &lt;31614216+checkche0803@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -48,7 +126,6 @@
         <option value="$PROJECT_DIR$/src/LongestSubstring.java" />
         <option value="$PROJECT_DIR$/src/ListNode.java" />
         <option value="$PROJECT_DIR$/src/IntersectionOfTwoLinkedLists.java" />
-        <option value="$PROJECT_DIR$/src/listNode/ListNode.java" />
         <option value="$PROJECT_DIR$/src/listNode/FromTailToFirstPrintList.java" />
         <option value="$PROJECT_DIR$/src/queueAndStack/ImplementQueueUseStack.java" />
         <option value="$PROJECT_DIR$/src/Array/FindMinValueInRotateArray.java" />
@@ -79,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/dp/JumpFloors.java" />
         <option value="$PROJECT_DIR$/src/array/FindMinValueInRotateArray.java" />
         <option value="$PROJECT_DIR$/src/find/RotateArrayByMinNumber.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/tree/FindAllPath.java" />
         <option value="$PROJECT_DIR$/src/array/ContinueMaxValue.java" />
@@ -90,6 +168,11 @@
         <option value="$PROJECT_DIR$/src/stringAndChar/MutationString.java" />
         <option value="$PROJECT_DIR$/src/array/SumOfS.java" />
         <option value="$PROJECT_DIR$/src/array/SumContinueListOfS.java" />
+=======
+        <option value="$PROJECT_DIR$/src/listNode/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/listNode/ListNode.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
       </list>
     </option>
   </component>
@@ -100,8 +183,13 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="229" />
     <option name="y" value="60" />
+=======
+    <option name="x" value="264" />
+    <option name="y" value="40" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
     <option name="width" value="1613" />
     <option name="height" value="907" />
   </component>
@@ -109,28 +197,56 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="PackagesPane" />
+=======
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="AlgorithmImpl" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="AlgorithmImpl" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="AlgorithmImpl" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="AlgorithmImpl" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
       <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555124602607" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554309213212" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+=======
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,9 +260,15 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.SumOfS">
     <configuration name="AddZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stringAndChar.AddZeros" />
+=======
+  <component name="RunManager" selected="Application.Reverse">
+    <configuration name="Fibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.Fibo" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
       <module name="AlgorithmImpl" />
       <extension name="coverage">
         <pattern>
@@ -184,12 +306,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="StringConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stringAndChar.StringConcat" />
       <module name="AlgorithmImpl" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stringAndChar.*" />
+=======
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listNode.Reverse" />
+      <module name="AlgorithmImpl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listNode.*" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,11 +343,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.SumOfS" />
         <item itemvalue="Application.MutationString" />
         <item itemvalue="Application.StringConcat" />
         <item itemvalue="Application.AddZeros" />
         <item itemvalue="Application.JumpFloorBT" />
+=======
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.JumpFloorBT" />
+        <item itemvalue="Application.JumpFloors" />
+        <item itemvalue="Application.Fibo" />
+        <item itemvalue="Application.RotateArrayByMinNumber" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
       </list>
     </recent_temporary>
   </component>
@@ -278,6 +417,7 @@
       <option name="project" value="LOCAL" />
       <updated>1554883070662</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00004" summary="2019-4-10 剑指Offer">
       <created>1554883327239</created>
       <option name="number" value="00004" />
@@ -300,15 +440,31 @@
       <updated>1555124584240</updated>
     </task>
     <option name="localTasksCounter" value="7" />
+=======
+    <task id="LOCAL-00001" summary="2019-4-4 ReverseLinkedList">
+      <created>1554308316654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554308316654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="92822000" />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="229" y="60" width="1613" height="907" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4857881" visible="true" weight="0.27688345" />
+=======
+    <frame x="264" y="40" width="1613" height="907" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4857881" visible="true" weight="0.1712814" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
       <window_info id="Structure" order="1" sideWeight="0.5142119" side_tool="true" weight="0.25370252" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -317,14 +473,23 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.2522639" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36739975" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2522639" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3984476" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32988358" />
+=======
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32858992" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32988358" />
@@ -345,6 +510,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2019-3-30 剑指Offer" />
+<<<<<<< HEAD
     <MESSAGE value="2019-4-10 剑指Offer" />
     <MESSAGE value="2019-4-13 剑指Offer" />
     <option name="LAST_COMMIT_MESSAGE" value="2019-4-13 剑指Offer" />
@@ -362,6 +528,33 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+=======
+    <MESSAGE value="2019-4-4 ReverseLinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-4-4 ReverseLinkedList" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/lang/StringBuffer.java" />
+    <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/util/List.java" />
+    <entry file="jar:///document/java/jdk1.8.0_191/src.zip!/java/util/AbstractCollection.java" />
+    <entry file="file://$PROJECT_DIR$/src/sortAndSearch/Selection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortAndSearch/Bubble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
     <entry file="file://$PROJECT_DIR$/src/sortAndSearch/Insertion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -457,46 +650,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="826" column="5" lean-forward="true" selection-start-line="826" selection-start-column="5" selection-end-line="826" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="479" column="27" selection-start-line="479" selection-start-column="27" selection-end-line="479" selection-end-column="27" />
-          <folding>
-            <element signature="e#13957#13958#0" expanded="true" />
-            <element signature="e#14007#14008#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="934" column="16" lean-forward="true" selection-start-line="934" selection-start-column="16" selection-end-line="934" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk/src.zip!/java/lang/String.java" />
+    <entry file="jar://D:/Program Files/Java/jdk/src.zip!/java/lang/StringBuffer.java" />
+    <entry file="jar://D:/Program Files/Java/jdk/src.zip!/java/lang/AbstractStringBuilder.java" />
     <entry file="file://$PROJECT_DIR$/src/stringAndChar/ReplaceSpace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/listNode/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -507,6 +667,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://D:/Program Files/Java/jdk/src.zip!/java/lang/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -514,6 +675,26 @@
         </state>
       </provider>
     </entry>
+=======
+    <entry file="file://$PROJECT_DIR$/src/tree/RebuildByInOrderAndPostOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/RebuildTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="31" selection-start-line="31" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk/src.zip!/java/lang/Comparable.java" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
     <entry file="file://$PROJECT_DIR$/src/sortAndSearch/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -525,30 +706,50 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/find/RotateArrayByMinNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+=======
+    <entry file="jar://D:/Program Files/Java/jdk/src.zip!/java/lang/Integer.java" />
+    <entry file="file://$PROJECT_DIR$/src/find/RotateArrayByMinNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dp/Fibo.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="247">
+=======
+        <state relative-caret-position="273">
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
           <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dp/JumpGame.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="76">
+=======
+        <state relative-caret-position="84">
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dp/NumberOf1InBinary.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="76">
+=======
+        <state relative-caret-position="63">
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="35" />
           <folding>
             <element signature="e#78#79#0" expanded="true" />
@@ -559,27 +760,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dp/RectNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
+        <state relative-caret-position="63">
           <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://D:/Program Files/Java/jdk/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26220">
           <caret line="1443" column="22" selection-start-line="1443" selection-start-column="22" selection-end-line="1443" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+=======
     <entry file="file://$PROJECT_DIR$/src/dp/JumpFloors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="105">
           <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/FindMinValueInRotateArray.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/JumpFloorBT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/listNode/Reverse.kt" />
+    <entry file="file://$PROJECT_DIR$/AlgorithmImpl.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/listNode/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/listNode/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="304">
           <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
         </state>
@@ -692,6 +929,17 @@
           <folding>
             <element signature="e#220#240#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="366">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+>>>>>>> 73c4b48e9e93a6be47aa4df4e4da8bc372a561bb
         </state>
       </provider>
     </entry>
@@ -760,6 +1008,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>src</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
