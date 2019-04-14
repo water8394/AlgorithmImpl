@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e497026-e08f-4043-981c-dd49804c600b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/SumContinueListOfS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/SumOfS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringAndChar/AddZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringAndChar/MutationString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringAndChar/StringConcat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/Array/CombinePhoneNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/Array/FindMinValueInRotateArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/Array/findValueInMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/design/RandomizedSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/dp/CoinsNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/dp/Fibo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/dp/JumpGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/listNode/FromTailToFirstPrintList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/listNode/FromTailToHead.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/listNode/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/queueAndStack/ImplQueuebyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/queueAndStack/ImplementQueueUseStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/queueAndStack/TopKElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/Bubble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/Insertion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/Selection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/Shell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/sortAndSearch/testSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/stringAndChar/ReplaceSpace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/tree/RebuildByInOrderAndPostOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/tree/RebuildTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithe/tree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/RebuildByInOrderAndPostOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/RebuildByInOrderAndPostOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/RebuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/RebuildTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -148,34 +115,13 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AlgorithmImpl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmImpl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmImpl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmImpl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmImpl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmImpl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555124542383" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555124602607" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -309,7 +255,7 @@
       <workItem from="1553946810426" duration="6353000" />
       <workItem from="1554880429736" duration="4113000" />
       <workItem from="1554896233993" duration="9629000" />
-      <workItem from="1555121016721" duration="2776000" />
+      <workItem from="1555121016721" duration="3312000" />
     </task>
     <task id="LOCAL-00001" summary="2019-3-30 剑指Offer">
       <created>1553954612480</created>
@@ -346,11 +292,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554883334194</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2019-4-13 剑指Offer">
+      <created>1555124584240</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555124584240</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92286000" />
+    <option name="totallyTimeSpent" value="92822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="229" y="60" width="1613" height="907" extended-state="0" />
@@ -364,7 +317,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2522639" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2522639" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36739975" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -393,7 +346,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2019-3-30 剑指Offer" />
     <MESSAGE value="2019-4-10 剑指Offer" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-4-10 剑指Offer" />
+    <MESSAGE value="2019-4-13 剑指Offer" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-4-13 剑指Offer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
