@@ -7,8 +7,4 @@ public class ByteSum {
         Byte bb = new Byte(b);
         return String.valueOf(aa+bb);
     }
-
-    public static void main(String[] args) {
-
-    }
 }
