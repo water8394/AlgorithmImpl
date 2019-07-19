@@ -16,7 +16,7 @@ public class IsPalindrome {
             fake.next = pre;
             pre = fake;
         }
-
+        // 处理  单数链表和奇数链表
         ListNode p2 = slow.next;
         slow.next = pre;
 
