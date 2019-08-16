@@ -5,13 +5,13 @@ import java.util.Stack;
 public class NodePrint {
 
     // 非递归 先序遍历
-    public static void preOrderUnRecur(book.lru.Node head){
+    public static void preOrderUnRecur(ListNode head){
         System.out.print("pre-order: ");
         if (head != null){
-            Stack<book.lru.Node> stack = new Stack<>();
+            Stack<ListNode> stack = new Stack<>();
             stack.add(head);
             while (!stack.isEmpty()){
-                book.lru.Node t = stack.pop();
+                ListNode t = stack.pop();
                 System.out.print(t.value + " ");
                 if (t.right != null)
                     stack.push(t.right);
@@ -22,10 +22,10 @@ public class NodePrint {
     }
 
     // 非递归 中序遍历
-    public static void inOrderUnRecur(book.lru.Node head){
+    public static void inOrderUnRecur(ListNode head){
         System.out.print("in-order: ");
         if (head != null){
-            Stack<book.lru.Node> stack = new Stack<>();
+            Stack<ListNode> stack = new Stack<>();
             while (!stack.isEmpty() || head != null){
                 if (head != null){
                     stack.push(head);
@@ -42,11 +42,11 @@ public class NodePrint {
     }
 
     // 非递归 后序遍历
-    public static void posOrderUnRecur(book.lru.Node head){
+    public static void posOrderUnRecur(ListNode head){
         System.out.print("pos-order: ");
         if (head != null){
-            Stack<book.lru.Node> s1 = new Stack<>();
-            Stack<book.lru.Node> s2 = new Stack<>();
+            Stack<ListNode> s1 = new Stack<>();
+            Stack<ListNode> s2 = new Stack<>();
             s1.push(head);
             while (!s1.isEmpty()){
                 head = s1.pop();
@@ -67,13 +67,13 @@ public class NodePrint {
         //       /\    /\
         //      4  5   6 7
 
-        book.lru.Node head = new book.lru.Node(1);
-        head.left = new book.lru.Node(2);
-        head.right = new book.lru.Node(3);
-        head.left.left = new book.lru.Node(4);
-        head.left.right = new book.lru.Node(5);
-        head.right.left = new book.lru.Node(6);
-        head.right.right = new book.lru.Node(7);
+        ListNode head = new ListNode(1);
+        head.left = new ListNode(2);
+        head.right = new ListNode(3);
+        head.left.left = new ListNode(4);
+        head.left.right = new ListNode(5);
+        head.right.left = new ListNode(6);
+        head.right.right = new ListNode(7);
         preOrderUnRecur(head);
         System.out.println(" ");
         inOrderUnRecur(head);
@@ -81,12 +81,12 @@ public class NodePrint {
         posOrderUnRecur(head);
     }
 }
-class Node{
+class ListNode {
    public int value;
-   public book.lru.Node left;
-   public book.lru.Node right;
+   public ListNode left;
+   public ListNode right;
 
-    public Node(int value) {
+    public ListNode(int value) {
         this.value = value;
     }
 }
