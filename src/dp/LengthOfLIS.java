@@ -17,7 +17,6 @@ public class LengthOfLIS {
             }
             dp[i] = max;
         }
-
         return Arrays.stream(dp).max().orElse(0);
 
     }
